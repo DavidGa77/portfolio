@@ -1,0 +1,42 @@
+@font-face {
+    font-family: typo;
+    src: url(american-typewriter.ttf);
+}
+
+* {
+    font-family: typo, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+.nb_item {
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 22px;
+}
+
+body {
+    background-image: url('white-paint-wall-background-texture_53876-16373.avif');
+    background-size: cover;
+}
+
+.prj {
+    display: inline-block;
+    padding-right: 50px;
+    text-wrap: pretty;
+}
+
+.prj_head {
+    font-size: 22px;
+}
+
+.prj_txt {
+    width: 300px;
+}
+
+img {
+    width: 408px;
+    height: 306px;
+}
