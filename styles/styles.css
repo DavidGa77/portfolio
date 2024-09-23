@@ -1,6 +1,6 @@
 @font-face {
     font-family: typo;
-    src: url('/assets/fonts/american-typewriter.ttf');
+    src: url('../assets/fonts/american-typewriter.ttf');
 }
 
 * {
@@ -18,7 +18,7 @@ p {
 }
 
 body {
-    background-image: url('/assets/images/white-paint-wall-background-texture_53876-16373.avif');
+    background-image: url('../assets/images/white-paint-wall-background-texture_53876-16373.avif');
     background-size: cover;
 }
 
